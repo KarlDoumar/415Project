@@ -3,4 +3,7 @@
 ### JupyterNotebook ###
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+*.jpg
+MIO-TCD-Classification/
+MIO-TCD-Localization/
 
